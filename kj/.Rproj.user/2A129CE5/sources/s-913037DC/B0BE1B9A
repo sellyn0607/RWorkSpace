@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1530493221011.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B0BE1B9A",
+    "lastKnownWriteTime" : 1530610253,
+    "last_content_update" : 1530610253120,
+    "path" : "C:/Users/1027/RWorkSpace/kj/0702.R",
+    "project_path" : "0702.R",
+    "properties" : {
+        "cursorPosition" : "137,8",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

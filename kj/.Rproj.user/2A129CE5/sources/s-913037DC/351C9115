@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1530587569264.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "351C9115",
+    "lastKnownWriteTime" : 1530595947,
+    "last_content_update" : 1530595947343,
+    "path" : "C:/Users/1027/RWorkSpace/kj/Rlang_Matrix.R",
+    "project_path" : "Rlang_Matrix.R",
+    "properties" : {
+        "cursorPosition" : "59,0",
+        "scrollLine" : "37",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
